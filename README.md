@@ -25,7 +25,7 @@
 
 ---
 
-### 3. Setting Output (Optional)
+### 3. Setting Output 
 - Default: Saves to `output/video_name.srt`  
 - To change: Click **"Browse"** next to "Output SRT File"
 
